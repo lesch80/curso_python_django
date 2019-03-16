@@ -40,7 +40,12 @@ git push origin master
  git remote show origin
  *ver ramas del pryecto
  git branch
+* agregar ramas
+git branch sesiones
 
+*retroceder
+git checkout -- archivo moificado
 
-
+* para deshace camvios depsues de hacer git add
+git reset HEAD 
 
