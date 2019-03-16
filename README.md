@@ -47,5 +47,9 @@ git branch sesiones
 git checkout -- archivo moificado
 
 * para deshace camvios depsues de hacer git add
-git reset HEAD 
+git reset HEAD
 
+
+
+ir a la rama destino y ejecutar git merche para lelvar
+git checkout 
