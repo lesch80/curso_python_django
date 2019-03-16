@@ -28,3 +28,19 @@ git commit -m  "first commit"
 
 * ver istado de cambios de nuestro commit
 git log --oneline
+git status
+git add .
+git commit -m “mensaje”
+git push origin master
+ *extarer codigo
+ git pull
+ git pull origin master
+ *ver mis rutas remotas
+ git remote show
+ git remote show origin
+ *ver ramas del pryecto
+ git branch
+
+
+
+
